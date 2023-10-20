@@ -1,0 +1,1 @@
+Place your flash_backup_zelda.bin, internal_flash_backup_zelda.bin and itcm_backup_zelda.bin files in here
